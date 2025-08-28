@@ -7,7 +7,7 @@
       <li> <a href="https://www.linkedin.com/in/zhaozm/" target="_blank">My LinkedIn</a></li>
   </ul>
 - 😄 Pronouns: he/him
-- 🏫 School: Brooklyn Technical High School
+- 🏫 School: CUNY Hunter
 - 🎂 Birthdate: July 8
   <br>
 <div>
