@@ -14,3 +14,13 @@
   <img src="https://github.com/ZhaoZMM/ZhaoZMM/blob/main/cutie-cat-well.gif" height="300px" width="300px"/>
   <img src="https://github.com/ZhaoZMM/ZhaoZMM/blob/main/giphy.webp" height="300px" width="300px"/>
 </div>
+
+/*
+Author: your name
+Course: CSCI-136
+Instructor: their name
+Assignment: title, e.g., Lab1A
+
+Here, briefly, at least in one or a few sentences
+describe what the program does.
+*/
